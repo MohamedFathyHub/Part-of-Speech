@@ -1,5 +1,6 @@
 # Part of Speech
  
+![Quizz](https://user-images.githubusercontent.com/80659125/178483385-c2db8b60-ebc6-40eb-8687-adde0e1a36bf.png)
 
 About the project :
 -------------------
